@@ -1,5 +1,5 @@
 # Loyalty-program-database-design
-The conceptual, logical, and physical dimensions of AIRBNB Loyalty Program database design.
+The conceptual, logical, and physical dimensions of Loyalty Program database design.
 # Executive Summary
 In the ever-evolving landscape of global lodging and travel, Airbnb has proactively addressed multifaceted challenges, including regulatory complexities, trust issues, quality control, market competition, and operational scalability. Airbnb's strategic responses to these challenges, highlights its adaptability and commitment to user-centric solutions.
 From a strategic business perspective, one of the main challenge we identified for Airbnb is the lack of a loyalty ecosystem.This gap could lead to users exploring alternatives and increased competition from other travel platforms.The absence of a loyalty program has far-reaching implications for hosts and guests. Without such a program in place, Airbnb misses a valuable opportunity to not only reward and retain its most devoted patrons but also to significantly boost its revenue streams.
